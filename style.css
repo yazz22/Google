@@ -1,0 +1,74 @@
+body, input, button {
+	margin: 0;
+	padding: 0;
+	font-size: 14px;
+	font-family: arial, sans-serif;
+	color: #222;
+}
+.Google{
+	display: flex;
+	align-items: center;
+	padding: 6px;
+	height: 25px;
+	width: 35px;
+	}
+
+#logogoogle{
+	margin-left: 450px;
+	margin-top: 130px;
+	margin-bottom: 10px;
+	height: 160px;
+	width: 480px;
+}
+
+.search{
+	margin-left: 400px;
+	margin-bottom: 10px;
+	width: 550px;
+}
+
+.bouton{
+	margin-left: 580px;
+	margin-bottom: 20px;
+	}
+
+.dispo{
+	margin-left: 580px;
+	margin-bottom: 360px;
+}
+
+
+footer{
+	background: #f2f2f2;
+}
+
+.menugoogle{
+	color:#222;
+	position: absolute 200px;
+    display: flex;
+	position: fixed;
+}
+
+#conteneur2{
+	color: #222;
+	float: left;
+	display: flex;
+	align-items: center;
+	background: #f2f2f2;
+	bottom: 0;
+
+
+}
+
+#conteneur3{
+	color: #222;
+	float: right;
+	display: flex;
+	background: #f2f2f2;
+	
+}
+
+.nav{
+	float: right;
+
+}
